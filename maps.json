@@ -1,3 +1,19 @@
 {
-    "maps": []
+    "maps": [
+        {
+            "id": "zr_test_7845",
+            "name": "Test",
+            "description": "This is a test",
+            "author": "cryo5512",
+            "author_id": "519767115251580929",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0",
+            "tags": [
+                "test"
+            ],
+            "image_url": "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.flaticon.com%2Ffr%2Ficone-gratuite%2Ftest_4838856&ved=0CBYQjRxqFwoTCNjisPL7uJMDFQAAAAAdAAAAABAI&opi=89978449",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_test_7845/zr_test_7845.zip",
+            "sha256": "5a037a231c2e30b23578d9d6ce81b82195e27c93bc9755191c043d255e92df8b"
+        }
+    ]
 }

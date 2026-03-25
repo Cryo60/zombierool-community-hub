@@ -13,7 +13,15 @@
             "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_ethereal_palace_2129/zr_ethereal_palace_2129_img.png",
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_ethereal_palace_2129/zr_ethereal_palace_2129.zip",
             "sha256": "4f8f474eb29057d2491fe7e05e5d9707beff6626d2001e9d0cdeb94976cc5804",
-            "reviews": []
+            "reviews": [
+                {
+                    "user_id": "519767115251580929",
+                    "user": "cryo5512",
+                    "stars": 5,
+                    "comment": "",
+                    "date": "2026-03-25"
+                }
+            ]
         }
     ]
 }

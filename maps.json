@@ -15,7 +15,15 @@
             "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_test_3661/zr_test_3661_img.jpg",
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_test_3661/zr_test_3661.zip",
             "sha256": "5a037a231c2e30b23578d9d6ce81b82195e27c93bc9755191c043d255e92df8b",
-            "reviews": []
+            "reviews": [
+                {
+                    "user_id": "519767115251580929",
+                    "user": "cryo5512",
+                    "stars": 5,
+                    "comment": "The best map ever",
+                    "date": "2026-03-25"
+                }
+            ]
         }
     ]
 }

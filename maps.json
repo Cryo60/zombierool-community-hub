@@ -1,3 +1,19 @@
 {
-    "maps": []
+    "maps": [
+        {
+            "id": "zr_ethereal_palace_2129",
+            "name": "Ethereal Palace",
+            "version": "1.0.0",
+            "description": "",
+            "author": "pyro053110",
+            "author_id": "1350861137448665129",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0",
+            "tags": [],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_ethereal_palace_2129/zr_ethereal_palace_2129_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_ethereal_palace_2129/zr_ethereal_palace_2129.zip",
+            "sha256": "4f8f474eb29057d2491fe7e05e5d9707beff6626d2001e9d0cdeb94976cc5804",
+            "reviews": []
+        }
+    ]
 }

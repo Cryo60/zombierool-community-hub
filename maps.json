@@ -29,33 +29,6 @@
                     "date": "2026-03-26"
                 }
             ]
-        },
-        {
-            "id": "zr_map_test_4950",
-            "name": "Map Test",
-            "version": "1.0.0",
-            "description": "",
-            "author": "main_garrosh",
-            "author_id": "1014474341909528637",
-            "game_version": "1.20.1",
-            "zr_version": "1.6.0",
-            "tags": [
-                "survival"
-            ],
-            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_map_test_4950/zr_map_test_4950_img.png",
-            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_map_test_4950/zr_map_test_4950.zip",
-            "sha256": "ef1d187a60839baa86200b8b60ebbfea1ebddaf94aebb12e90559cd32a21e060",
-            "timestamp": 1774516135298,
-            "downloads": 0,
-            "reviews": [
-                {
-                    "user_id": "1014474341909528637",
-                    "user": "main_garrosh",
-                    "stars": 3,
-                    "comment": "",
-                    "date": "2026-03-26"
-                }
-            ]
         }
     ]
 }

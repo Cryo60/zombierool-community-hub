@@ -29,7 +29,7 @@
                     "date": "2026-03-26"
                 }
             ],
-            "downloads": 1
+            "downloads": 2
         },
         {
             "id": "zr_map_test_1194",
@@ -47,7 +47,7 @@
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_map_test_1194/zr_map_test_1194.zip",
             "sha256": "ef1d187a60839baa86200b8b60ebbfea1ebddaf94aebb12e90559cd32a21e060",
             "timestamp": 1774520861556,
-            "downloads": 0,
+            "downloads": 1,
             "reviews": []
         }
     ]

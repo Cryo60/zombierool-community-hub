@@ -30,25 +30,6 @@
                 }
             ],
             "downloads": 1
-        },
-        {
-            "id": "zr_map_test_9344",
-            "name": "Map test",
-            "version": "1.0.0",
-            "description": "",
-            "author": "main_garrosh",
-            "author_id": "1014474341909528637",
-            "game_version": "1.20.1",
-            "zr_version": "1.6.0",
-            "tags": [
-                "survival"
-            ],
-            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_map_test_9344/zr_map_test_9344_img.png",
-            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_map_test_9344/zr_map_test_9344.zip",
-            "sha256": "ef1d187a60839baa86200b8b60ebbfea1ebddaf94aebb12e90559cd32a21e060",
-            "timestamp": 1774517009695,
-            "downloads": 1,
-            "reviews": []
         }
     ]
 }

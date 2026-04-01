@@ -34,11 +34,11 @@
         {
             "id": "zr_one_window_challenge_9159",
             "name": "One Window Challenge",
-            "version": "1.0.0",
+            "version": "1.2.0",
             "description": "",
             "author": "main_garrosh",
             "author_id": "1014474341909528637",
-            "game_version": "1.2.1",
+            "game_version": "1.20.1",
             "zr_version": "1.6.0",
             "tags": [
                 "one window",

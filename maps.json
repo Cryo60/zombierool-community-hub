@@ -34,7 +34,7 @@
         {
             "id": "zr_one_window_challenge_9159",
             "name": "One Window Challenge",
-            "version": "1.2.0",
+            "version": "1.2.1",
             "description": "",
             "author": "main_garrosh",
             "author_id": "1014474341909528637",
@@ -47,7 +47,7 @@
             ],
             "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_one_window_challenge_9159/zr_one_window_challenge_9159_img.png",
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_one_window_challenge_9159/zr_one_window_challenge_9159.zip",
-            "sha256": "1461f5a237c0075c5c8108e7e0d62453c87cfabd5d9ac85bd194b17951e297b6",
+            "sha256": "e3e2c269b0626b2127c80cd75ca1c269c875513ecb94564ae03a6981a8645347",
             "timestamp": 1774786509523,
             "downloads": 5,
             "reviews": [

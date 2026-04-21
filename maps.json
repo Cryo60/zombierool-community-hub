@@ -59,6 +59,32 @@
                     "date": "2026-03-30"
                 }
             ]
+        },
+        {
+            "id": "zr_skytower_0391",
+            "name": "SkyTower",
+            "version": "0.8",
+            "description": "",
+            "author": "s_y_r_3_x",
+            "author_id": "700364752194371716",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0",
+            "tags": [
+                "survival"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_skytower_0391/zr_skytower_0391_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_skytower_0391/zr_skytower_0391.zip",
+            "sha256": "f6d8d84842661d9b1000fdcfcb7cfb5a3c66ca3f8156d29f96a758ceec601397",
+            "timestamp": 1776795232293,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved",
+            "tacz_gunpacks": [
+                "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero/files/7745481",
+                "https://www.curseforge.com/minecraft/customization/tacz-call-of-duty-warzone-gunpack/files/7929228",
+                "https://www.curseforge.com/minecraft/customization/tacz-charge-into-battle-reboot-pack/files/7280896",
+                "https://www.curseforge.com/minecraft/mc-mods/elite-x-quality-guns/files/7952386"
+            ]
         }
     ],
     "config": {

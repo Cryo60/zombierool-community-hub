@@ -126,6 +126,26 @@
             "downloads": 0,
             "reviews": [],
             "status": "approved"
+        },
+        {
+            "id": "zr_marty_s_tower_4278",
+            "name": "Marty's Tower",
+            "version": "1.0",
+            "description": "Marty's Tower custom zombies map from BlackOps3",
+            "author": "s_y_r_3_x",
+            "author_id": "700364752194371716",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0",
+            "tags": [
+                "survival"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_marty_s_tower_4278/zr_marty_s_tower_4278_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_marty_s_tower_4278/zr_marty_s_tower_4278.zip",
+            "sha256": "05d259465e5888b8ae9c5dc5d70734aebc24f0b7090d9eff403ee5d4111092e4",
+            "timestamp": 1777142995630,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved"
         }
     ],
     "config": {

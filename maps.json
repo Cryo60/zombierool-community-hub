@@ -146,6 +146,27 @@
             "downloads": 0,
             "reviews": [],
             "status": "approved"
+        },
+        {
+            "id": "zr_onewindow__mc_map_bo3___6079",
+            "name": "OneWindow [MC map Bo3] ",
+            "version": "1.0",
+            "description": "OneWindow map form Bo3 CustomZombies",
+            "author": "s_y_r_3_x",
+            "author_id": "700364752194371716",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0",
+            "tags": [
+                "survival",
+                "onewindow"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_onewindow__mc_map_bo3___6079/zr_onewindow__mc_map_bo3___6079_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_onewindow__mc_map_bo3___6079/zr_onewindow__mc_map_bo3___6079.zip",
+            "sha256": "abaed661dbf371f76505bc84232905b5c042c9d52a60af7d87ff541c42332ce1",
+            "timestamp": 1777202107666,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved"
         }
     ],
     "config": {

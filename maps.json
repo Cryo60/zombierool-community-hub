@@ -29,7 +29,7 @@
                     "date": "2026-03-30"
                 }
             ],
-            "downloads": 83
+            "downloads": 84
         },
         {
             "id": "zr_one_window_challenge_9159",
@@ -49,7 +49,7 @@
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_one_window_challenge_9159/zr_one_window_challenge_9159.zip",
             "sha256": "e3e2c269b0626b2127c80cd75ca1c269c875513ecb94564ae03a6981a8645347",
             "timestamp": 1774786509523,
-            "downloads": 33,
+            "downloads": 34,
             "reviews": [
                 {
                     "user_id": "519767115251580929",
@@ -76,7 +76,7 @@
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_skytower_0391/zr_skytower_0391.zip",
             "sha256": "5d50c9d8bc6a4b3ef22b18c9ea182ea1fd5e4c6e9e1678d15cefd762f49cbbf9",
             "timestamp": 1776795232293,
-            "downloads": 20,
+            "downloads": 21,
             "reviews": [
                 {
                     "user_id": "1489593197372903454",
@@ -110,7 +110,7 @@
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_the_cabin_0386/zr_the_cabin_0386.zip",
             "sha256": "b2c4e0fa09f206e508894b6492be851d7cf43aba66b85446b638ceba8419d90c",
             "timestamp": 1776883612661,
-            "downloads": 18,
+            "downloads": 19,
             "reviews": [],
             "status": "approved"
         },
@@ -131,7 +131,7 @@
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_onewindow__michael_s_zombies__2489/zr_onewindow__michael_s_zombies__2489.zip",
             "sha256": "d72c7cca648c32050de7e52127e404f8d38ee0a3144fe2e1a42b0b19a90be185",
             "timestamp": 1777069883994,
-            "downloads": 6,
+            "downloads": 7,
             "reviews": [],
             "status": "approved"
         },

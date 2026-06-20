@@ -193,7 +193,15 @@
             "sha256": "7f6218a243c91cf51fd333893cae87bc47cc2161a8748ae89664cead4594a340",
             "timestamp": 1777313701727,
             "downloads": 24,
-            "reviews": [],
+            "reviews": [
+                {
+                    "user_id": "700106286812889148",
+                    "user": "bopoliderobot",
+                    "stars": 3,
+                    "comment": "",
+                    "date": "2026-06-20"
+                }
+            ],
             "status": "approved"
         }
     ],

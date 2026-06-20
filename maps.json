@@ -203,6 +203,35 @@
                 }
             ],
             "status": "approved"
+        },
+        {
+            "id": "zr_space_station_3176",
+            "name": "Space Station",
+            "version": "1.0.0",
+            "description": "A unnamed space station taken over by the undead. Your task is to survive. I made this map from scratch. If there are any issues please let me know in the discord server.  THIS MAP WORKS WITH ZOMBIEROOL AND TACZ SEPARATELY.",
+            "author": "bopoliderobot",
+            "author_id": "700106286812889148",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0 stable",
+            "tags": [
+                "Survival"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_space_station_3176/zr_space_station_3176_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_space_station_3176/zr_space_station_3176.zip",
+            "sha256": "28f3c52c9e51570909619907e539e7a9ee65bc21d8082a1a22332a65659786a1",
+            "timestamp": 1781989025030,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved",
+            "tacz_gunpacks": [
+                "https://www.curseforge.com/minecraft/mc-mods/tacz-addons-daffas-arsenal",
+                "https://www.curseforge.com/minecraft/mc-mods/tacz-lesraisins-tactical-equipements",
+                "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero",
+                "https://www.curseforge.com/minecraft/mc-mods/tacz-weapons-and-tactics-mod",
+                "https://www.curseforge.com/minecraft/mc-mods/maxstuff",
+                "https://www.curseforge.com/minecraft/mc-mods/tacz-gucci-vuitton-attachments",
+                "https://www.curseforge.com/minecraft/mc-mods/fibers-guns-pack-for-tacz"
+            ]
         }
     ],
     "config": {

@@ -237,7 +237,7 @@
             "id": "zr_cheese_tower_5031",
             "name": "Cheese Tower",
             "version": "1.0.0",
-            "description": "its cheese cube unlimited in Minecraft, because i can :)",
+            "description": "its cheese cube unlimited in Minecraft, because i can :)\r\n\r\nMods Required: Biomes o plenty, blackwolf lib, cloth config, glitchcore, moredecorativeblocks, terrablender",
             "author": "mcgamer24_61240",
             "author_id": "1426238717504258048",
             "game_version": "1.20.1",
@@ -251,14 +251,7 @@
             "timestamp": 1782077327175,
             "downloads": 2,
             "reviews": [],
-            "status": "approved",
-            "mods": [
-                "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty",
-                "https://www.curseforge.com/minecraft/mc-mods/blackwolf-library/files/4592999",
-                "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
-                "https://www.curseforge.com/minecraft/mc-mods/more-decorative-blocks-blackwolf-design",
-                "https://www.curseforge.com/minecraft/mc-mods/glitchcore"
-            ]
+            "status": "approved"
         }
     ],
     "config": {

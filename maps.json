@@ -251,7 +251,14 @@
             "timestamp": 1782077327175,
             "downloads": 1,
             "reviews": [],
-            "status": "approved"
+            "status": "approved",
+            "mods": [
+                "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty",
+                "https://www.curseforge.com/minecraft/mc-mods/blackwolf-library/files/4592999",
+                "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+                "https://www.curseforge.com/minecraft/mc-mods/more-decorative-blocks-blackwolf-design",
+                "https://www.curseforge.com/minecraft/mc-mods/glitchcore"
+            ]
         }
     ],
     "config": {

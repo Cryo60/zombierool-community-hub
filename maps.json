@@ -232,26 +232,6 @@
                 "https://www.curseforge.com/minecraft/mc-mods/tacz-gucci-vuitton-attachments",
                 "https://www.curseforge.com/minecraft/mc-mods/fibers-guns-pack-for-tacz"
             ]
-        },
-        {
-            "id": "zr_cheese_tower_2005",
-            "name": "Cheese Tower",
-            "version": "1.0.0",
-            "description": "cheese cube unlimtied Minecraft Edition\r\n\r\nMods required: More Decorative Blocks, blackwolf lib",
-            "author": "mcgamer24_61240",
-            "author_id": "1426238717504258048",
-            "game_version": "1.20.1",
-            "zr_version": "1.6.0 stable",
-            "tags": [
-                "survival"
-            ],
-            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_cheese_tower_2005/zr_cheese_tower_2005_img.png",
-            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_cheese_tower_2005/zr_cheese_tower_2005.zip",
-            "sha256": "85887edcc2c450c9432286c5ec26741dfb206d6b4e6e363d562db735481b1610",
-            "timestamp": 1782097824386,
-            "downloads": 1,
-            "reviews": [],
-            "status": "approved"
         }
     ],
     "config": {

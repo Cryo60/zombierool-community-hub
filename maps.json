@@ -349,6 +349,27 @@
             "downloads": 2,
             "reviews": [],
             "status": "approved"
+        },
+        {
+            "id": "zr_undead_tower_6673",
+            "name": "Undead Tower",
+            "version": "1.0",
+            "description": "Map from BO3 custom zombies",
+            "author": "s_y_r_3_x",
+            "author_id": "700364752194371716",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0",
+            "tags": [
+                "survival",
+                "tower"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_undead_tower_6673/zr_undead_tower_6673_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_undead_tower_6673/zr_undead_tower_6673.zip",
+            "sha256": "4dbf8b9d02961d8965cd1e8f9778e1cae0aea6eb83256e06e82a488e4b07f88d",
+            "timestamp": 1783447960657,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved"
         }
     ],
     "config": {

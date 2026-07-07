@@ -279,6 +279,28 @@
             "downloads": 0,
             "reviews": [],
             "status": "approved"
+        },
+        {
+            "id": "zr_stairway_to_death_8572",
+            "name": "Stairway To Death",
+            "version": "0.0.1",
+            "description": "After the release of cheese tower(7 downloads currently)\r\n(Make sure waves are set to flood)\r\nI decided to make stairway to hell map, that's 18 blocks wide, and just getting basic perks are behind walls that cost more then the barriers in cheese tower, what's the challange for this map?, Box Only, No wallbuys and only perks and pack a punch(behind 150K Door)\r\n\r\nMods required: mostly just GoneButNotForgotten.jar and tacz",
+            "author": "mcgamer24_61240",
+            "author_id": "1426238717504258048",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0 stable",
+            "tags": [
+                "survival",
+                "chaotic",
+                "movement management"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_stairway_to_death_8572/zr_stairway_to_death_8572_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_stairway_to_death_8572/zr_stairway_to_death_8572.zip",
+            "sha256": "02db782bb6837b6182b98f3009ea316ac8efd4432f7cd7b8d5af8c2b7fa24745",
+            "timestamp": 1783396990599,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved"
         }
     ],
     "config": {

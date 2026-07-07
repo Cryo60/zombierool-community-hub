@@ -301,6 +301,28 @@
             "downloads": 0,
             "reviews": [],
             "status": "approved"
+        },
+        {
+            "id": "zr_stairway_to_death_8479",
+            "name": "Stairway To Death",
+            "version": "0.0.1",
+            "description": "A custom zombie map refrenceing stairway to hell, and with 0 wallbuys, you only have the box, perks and pack a punch\r\nMods required: mostly just GoneButNotForgotten.jar and tacz",
+            "author": "mcgamer24_61240",
+            "author_id": "1426238717504258048",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0 stable",
+            "tags": [
+                "survival",
+                "chaotic",
+                "movement management"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_stairway_to_death_8479/zr_stairway_to_death_8479_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_stairway_to_death_8479/zr_stairway_to_death_8479.zip",
+            "sha256": "02db782bb6837b6182b98f3009ea316ac8efd4432f7cd7b8d5af8c2b7fa24745",
+            "timestamp": 1783397100735,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved"
         }
     ],
     "config": {

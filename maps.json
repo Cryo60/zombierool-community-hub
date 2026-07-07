@@ -301,6 +301,26 @@
             "downloads": 0,
             "reviews": [],
             "status": "approved"
+        },
+        {
+            "id": "zr_killhouse__mmc__4548",
+            "name": "KillHouse [MMC]",
+            "version": "1.0",
+            "description": "KillHouse map port from Roblox [MMC Zombie Project]\r\n\r\n",
+            "author": "s_y_r_3_x",
+            "author_id": "700364752194371716",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0",
+            "tags": [
+                "survival"
+            ],
+            "image_url": "",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_killhouse__mmc__4548/zr_killhouse__mmc__4548.zip",
+            "sha256": "1af15bae0b2979db14ca387773cf1fbe832fca5c2890932336abbfcb78b64e59",
+            "timestamp": 1783440076345,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved"
         }
     ],
     "config": {

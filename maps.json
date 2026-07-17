@@ -370,6 +370,29 @@
             "downloads": 1,
             "reviews": [],
             "status": "approved"
+        },
+        {
+            "id": "zr_untitled_custom_map_0169",
+            "name": "Untitled Custom Map",
+            "version": "0.0.1",
+            "description": "First ever map with lobby and achievements Room(ONLY flip levers on if you did the achievement)",
+            "author": "mcgamer24_61240",
+            "author_id": "1426238717504258048",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0 stable",
+            "tags": [
+                "survival"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_untitled_custom_map_0169/zr_untitled_custom_map_0169_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_untitled_custom_map_0169/zr_untitled_custom_map_0169.zip",
+            "sha256": "a1aae29c74bf04d2d546a566179cc229f386ef99d374da8e8a329cadb9b53b65",
+            "timestamp": 1784250352152,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved",
+            "mods": [
+                "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/6364065"
+            ]
         }
     ],
     "config": {

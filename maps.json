@@ -432,6 +432,33 @@
             "downloads": 0,
             "reviews": [],
             "status": "approved"
+        },
+        {
+            "id": "zr_das_herrenhaus_der_verdammten_9158",
+            "name": "Das Herrenhaus Der Verdammten",
+            "version": "1.0.0",
+            "description": "Something strange is going on at this manor...\r\n\r\nBuild taken and modified from: https://buildpaste.net/build/dark-mansion-wQCKsQaOGWizAYyMwvxp\r\nThere is a small easter egg on this map :)",
+            "author": "feliz_narval0950",
+            "author_id": "307282502568116225",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0 stable",
+            "tags": [
+                "survival",
+                "horror"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_das_herrenhaus_der_verdammten_9158/zr_das_herrenhaus_der_verdammten_9158_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_das_herrenhaus_der_verdammten_9158/zr_das_herrenhaus_der_verdammten_9158.zip",
+            "sha256": "2d9db07821dd512dc4a8d5071dd14caa133ac28b5156b9f1a596cc7754797eed",
+            "timestamp": 1786539594753,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved",
+            "tacz_gunpacks": [
+                "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero/files/7745481",
+                "https://www.curseforge.com/minecraft/mc-mods/elite-x-quality-guns/files/7059572",
+                "https://www.curseforge.com/minecraft/customization/coldwarguns/files/7042787",
+                "https://www.curseforge.com/minecraft/customization/tacz-enlisted-gunpack"
+            ]
         }
     ],
     "config": {

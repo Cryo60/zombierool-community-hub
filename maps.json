@@ -497,7 +497,15 @@
             "sha256": "ccac90c9c475c399689ed5e92577bc313290d2469e19575ee5a79b27f3977518",
             "timestamp": 1786983809882,
             "downloads": 4,
-            "reviews": [],
+            "reviews": [
+                {
+                    "user_id": "1426238717504258048",
+                    "user": "mcgamer24_61240",
+                    "stars": 5,
+                    "comment": "It looks like a good map, but im having trouble trying to load the map",
+                    "date": "2026-08-17"
+                }
+            ],
             "status": "approved",
             "tacz_gunpacks": [
                 "https://www.curseforge.com/minecraft/mc-mods/elite-x-quality-guns",

@@ -477,6 +477,38 @@
             "downloads": 0,
             "reviews": [],
             "status": "approved"
+        },
+        {
+            "id": "zr_madarikatuen_tenplua_3054",
+            "name": "Madarikatuen Tenplua",
+            "version": "1.0.0",
+            "description": "First iteration of this map! This map has a full power and pack-a-punch quest, an easter egg for obtaining the wonder weapon, and an easter egg for upgrading the wonder weapon into a fully custom wonder weapon! This map also features a boss enemy which spawns every 8 rounds. Have fun! :)",
+            "author": "feliz_narval0950",
+            "author_id": "307282502568116225",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0 stable",
+            "tags": [
+                "survival",
+                "desert",
+                "custom wonder weapon"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_madarikatuen_tenplua_3054/zr_madarikatuen_tenplua_3054_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_madarikatuen_tenplua_3054/zr_madarikatuen_tenplua_3054.zip",
+            "sha256": "2a55eb9ce3f18c6e867bab2d87c80f11f800d6ec8b4455a70c68b8305490b25c",
+            "timestamp": 1786983809882,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved",
+            "tacz_gunpacks": [
+                "https://www.curseforge.com/minecraft/mc-mods/elite-x-quality-guns",
+                "https://www.curseforge.com/minecraft/mc-mods/tacz-endless-ammo",
+                "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-guns-lesraisins-append-pack/files/5392983",
+                "https://www.curseforge.com/minecraft/mc-mods/maxstuff",
+                "https://www.curseforge.com/minecraft/customization/tacz-enlisted-gunpack",
+                "https://www.curseforge.com/minecraft/customization/tacz-ms-mobius-gunpack",
+                "https://www.curseforge.com/minecraft/customization/coldwarguns",
+                "https://www.curseforge.com/minecraft/customization/tacz-gunpowder-revolution-great-war-gunpack"
+            ]
         }
     ],
     "config": {

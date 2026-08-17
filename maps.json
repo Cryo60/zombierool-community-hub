@@ -481,8 +481,8 @@
         {
             "id": "zr_madarikatuen_tenplua_3054",
             "name": "Madarikatuen Tenplua",
-            "version": "1.0.1",
-            "description": "First iteration of this map! This map has a full power and pack-a-punch quest, an easter egg for obtaining the wonder weapon, and an easter egg for upgrading the wonder weapon into a fully custom wonder weapon! This map also features a boss enemy which spawns every 8 rounds. Have fun! :)",
+            "version": "1.0.2",
+            "description": "First iteration of this map! This map has a full power and pack-a-punch quest, an easter egg for obtaining the wonder weapon, and an easter egg for upgrading the wonder weapon into a fully custom wonder weapon! This map also features a boss enemy which spawns every 8 rounds. Have fun! :) (updated 1.0.2: changed some sound effects, and made it so upgraded wonder weapon spawns fire particles instead of actual fire, meaning it's harder for players to accidentally down themselves with the wonder weapon)",
             "author": "feliz_narval0950",
             "author_id": "307282502568116225",
             "game_version": "1.20.1",
@@ -494,7 +494,7 @@
             ],
             "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_madarikatuen_tenplua_3054/zr_madarikatuen_tenplua_3054_img.png",
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_madarikatuen_tenplua_3054/zr_madarikatuen_tenplua_3054.zip",
-            "sha256": "ccac90c9c475c399689ed5e92577bc313290d2469e19575ee5a79b27f3977518",
+            "sha256": "46c7a48d2c6a9f9dfce38d2b6ae7c0d060ac1576f9801e0ac57caeaa15089516",
             "timestamp": 1786983809882,
             "downloads": 5,
             "reviews": [
@@ -506,17 +506,7 @@
                     "date": "2026-08-17"
                 }
             ],
-            "status": "approved",
-            "tacz_gunpacks": [
-                "https://www.curseforge.com/minecraft/mc-mods/elite-x-quality-guns",
-                "https://www.curseforge.com/minecraft/mc-mods/tacz-endless-ammo",
-                "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-guns-lesraisins-append-pack/files/5392983",
-                "https://www.curseforge.com/minecraft/mc-mods/maxstuff",
-                "https://www.curseforge.com/minecraft/customization/tacz-enlisted-gunpack",
-                "https://www.curseforge.com/minecraft/customization/tacz-ms-mobius-gunpack",
-                "https://www.curseforge.com/minecraft/customization/coldwarguns",
-                "https://www.curseforge.com/minecraft/customization/tacz-gunpowder-revolution-great-war-gunpack"
-            ]
+            "status": "approved"
         }
     ],
     "config": {

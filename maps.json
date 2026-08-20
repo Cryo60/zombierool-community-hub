@@ -482,7 +482,7 @@
             "id": "zr_madarikatuen_tenplua_3054",
             "name": "Madarikatuen Tenplua",
             "version": "1.0.2",
-            "description": "First iteration of this map! This map has a full power and pack-a-punch quest, an easter egg for obtaining the wonder weapon, and an easter egg for upgrading the wonder weapon into a fully custom wonder weapon! This map also features a boss enemy which spawns every 8 rounds. Have fun! :) (updated 1.0.2: changed some sound effects, and made it so upgraded wonder weapon spawns fire particles instead of actual fire, meaning it's harder for players to accidentally down themselves with the wonder weapon)",
+            "description": "First iteration of this map! This map has a full power and pack-a-punch quest, an easter egg for obtaining the wonder weapon, and an easter egg for upgrading the wonder weapon into a fully custom wonder weapon! This map also features a boss enemy which spawns every 8 rounds. Have fun! :) (updated 1.0.3: attempted datapack fix #1, world should load now)",
             "author": "feliz_narval0950",
             "author_id": "307282502568116225",
             "game_version": "1.20.1",
@@ -494,7 +494,7 @@
             ],
             "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_madarikatuen_tenplua_3054/zr_madarikatuen_tenplua_3054_img.png",
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_madarikatuen_tenplua_3054/zr_madarikatuen_tenplua_3054.zip",
-            "sha256": "46c7a48d2c6a9f9dfce38d2b6ae7c0d060ac1576f9801e0ac57caeaa15089516",
+            "sha256": "bb6cde59e3b956371e35484a6a437fa2a384ae13715820a0ef5f01a79f832f45",
             "timestamp": 1786983809882,
             "downloads": 8,
             "reviews": [

@@ -261,26 +261,6 @@
             "status": "approved"
         },
         {
-            "id": "zr_fnaf_world_map_big_porject_7172",
-            "name": "Fnaf world map Big Porject",
-            "version": "1.0.0",
-            "description": "I'm making a custom fnaf world map that will possibly be a big map i'm making and wont stop adding zones\r\nMods required: Biomes o plenty, More Decorative Blocks, tacz, and gonebutnotforgotten",
-            "author": "mcgamer24_61240",
-            "author_id": "1426238717504258048",
-            "game_version": "1.20.1",
-            "zr_version": "1.6.0 stable",
-            "tags": [
-                "survival"
-            ],
-            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_fnaf_world_map_big_porject_7172/zr_fnaf_world_map_big_porject_7172_img.png",
-            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_fnaf_world_map_big_porject_7172/zr_fnaf_world_map_big_porject_7172.zip",
-            "sha256": "64cd9e0ff6a4c1fb3c4ec443a908399fae8a8ac7221dd770d18f9ea61007ecbe",
-            "timestamp": 1782762799007,
-            "downloads": 16,
-            "reviews": [],
-            "status": "approved"
-        },
-        {
             "id": "zr_stairway_to_death_8479",
             "name": "Stairway To Death",
             "version": "0.0.1",

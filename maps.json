@@ -412,28 +412,6 @@
             "status": "approved"
         },
         {
-            "id": "zr_frosted_machina_3249",
-            "name": "Frosted Machina",
-            "version": "1.0.0",
-            "description": "(Mods; gonebutnotforgotten.jar + Timeless and classic guns Zero)\r\nThis is only part 1 of Die machina but Different, more sections + new sections will be coming soon, but for now here's part 1",
-            "author": "mcgamer24_61240",
-            "author_id": "1426238717504258048",
-            "game_version": "1.20.1",
-            "zr_version": "1.6.0 stable",
-            "tags": [
-                "cold war zombies",
-                "survival",
-                "frosted"
-            ],
-            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_frosted_machina_3249/zr_frosted_machina_3249_img.png",
-            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_frosted_machina_3249/zr_frosted_machina_3249.zip",
-            "sha256": "43656b290a328470efe901f39370afd8bacac06224f07aba2da6db722e386005",
-            "timestamp": 1786374145354,
-            "downloads": 0,
-            "reviews": [],
-            "status": "approved"
-        },
-        {
             "id": "zr_das_herrenhaus_der_verdammten_9158",
             "name": "Das Herrenhaus Der Verdammten",
             "version": "1.0.0",

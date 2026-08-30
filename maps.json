@@ -445,6 +445,26 @@
                 }
             ],
             "status": "approved"
+        },
+        {
+            "id": "zr_der_riese_de_simplified_8046",
+            "name": "Der Riese De-Simplified",
+            "version": "1.0.0",
+            "description": "(only Zombierool is needed)\r\nA Simplified version of Der Riese, not sure if this counts as a small quest for pack a punch but, you must flip 4 diffirent switches, each turning on a certain perk or perks, flip all 4 and pack a punch is enabled for you",
+            "author": "mcgamer24_61240",
+            "author_id": "1426238717504258048",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0 stable",
+            "tags": [
+                "survival"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_der_riese_de_simplified_8046/zr_der_riese_de_simplified_8046_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_der_riese_de_simplified_8046/zr_der_riese_de_simplified_8046.zip",
+            "sha256": "2003e1d0d978456863bff8bd400ad29a1d435ce52a84b6857b9d56e53a7d8735",
+            "timestamp": 1788132249897,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved"
         }
     ],
     "config": {

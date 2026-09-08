@@ -465,6 +465,27 @@
             "downloads": 1,
             "reviews": [],
             "status": "approved"
+        },
+        {
+            "id": "zr_gris_1042",
+            "name": "GRIS",
+            "version": "1.0",
+            "description": "Purgatory, perhaps. The only end in sight is your own.\r\nYou can only delay the inevitable.\r\n\r\ncreated by ms_maggers, with detailing help from nxva.starr",
+            "author": "magmaggers",
+            "author_id": "652846784342917122",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0",
+            "tags": [
+                "survival",
+                "small"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_gris_1042/zr_gris_1042_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_gris_1042/zr_gris_1042.zip",
+            "sha256": "b813ae9e44a787e8ace920a79a41ffc493d4c417229f86277ef72a8abe060a6a",
+            "timestamp": 1788911704110,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved"
         }
     ],
     "config": {

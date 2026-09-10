@@ -486,6 +486,26 @@
             "downloads": 0,
             "reviews": [],
             "status": "approved"
+        },
+        {
+            "id": "zr_kino_de_simplified_8474",
+            "name": "Kino De-Simplified",
+            "version": "1.0.0",
+            "description": "The second map in my De-Simplified Series, Mods: Saros-Road-Blocks, and BiomesOPlenty",
+            "author": "mcgamer24_61240",
+            "author_id": "1426238717504258048",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0",
+            "tags": [
+                "survival"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_kino_de_simplified_8474/zr_kino_de_simplified_8474_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_kino_de_simplified_8474/zr_kino_de_simplified_8474.zip",
+            "sha256": "1ec97fa35689cd5874e080630c69a11440b78568cf0f41c00f1277859286c74c",
+            "timestamp": 1788998530445,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved"
         }
     ],
     "config": {

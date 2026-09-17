@@ -506,6 +506,27 @@
             "downloads": 3,
             "reviews": [],
             "status": "approved"
+        },
+        {
+            "id": "zr_pvz2__the_zombierool_mageddon_0261",
+            "name": "Pvz2: The Zombierool-Mageddon",
+            "version": "1.0",
+            "description": "Only Level 1-1 and Level 1-2 will be playablee to get an idea of how this map will turn out",
+            "author": "mcgamer24_61240",
+            "author_id": "1426238717504258048",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0 or 1.6.0 stable",
+            "tags": [
+                "Plants Vs Zombies",
+                "Survival"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_pvz2__the_zombierool_mageddon_0261/zr_pvz2__the_zombierool_mageddon_0261_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_pvz2__the_zombierool_mageddon_0261/zr_pvz2__the_zombierool_mageddon_0261.zip",
+            "sha256": "409d13e8b2db6e1d1a9879bcea51f6b95cdbe7ac28082ddff4f84dc4a4192da4",
+            "timestamp": 1789683832575,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved"
         }
     ],
     "config": {

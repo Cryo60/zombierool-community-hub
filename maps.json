@@ -527,6 +527,38 @@
             "downloads": 10,
             "reviews": [],
             "status": "approved"
+        },
+        {
+            "id": "zr_permafrost___alpha_3266",
+            "name": "Permafrost - Alpha",
+            "version": "0.0.1",
+            "description": "In a freezing cold, unveil the secrets of this underground lab, hidden under a bunker that has been abandoned for decades.",
+            "author": "diegeau",
+            "author_id": "277189284170039296",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0",
+            "tags": [
+                "Survival",
+                "Alpha",
+                "Quest"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_permafrost___alpha_3266/zr_permafrost___alpha_3266_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_permafrost___alpha_3266/zr_permafrost___alpha_3266.zip",
+            "sha256": "e555eab87c556222f6f5472d740b9334996d774e1299b17559c6aa991d39c977",
+            "timestamp": 1790270081893,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved",
+            "tacz_gunpacks": [
+                "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero",
+                "https://www.curseforge.com/minecraft/mc-mods/tacz-tweaks",
+                "https://www.curseforge.com/minecraft/mc-mods/security-craft"
+            ],
+            "mods": [
+                "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero",
+                "https://www.curseforge.com/minecraft/mc-mods/tacz-tweaks",
+                "https://www.curseforge.com/minecraft/mc-mods/security-craft"
+            ]
         }
     ],
     "config": {

@@ -552,12 +552,14 @@
             "tacz_gunpacks": [
                 "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero",
                 "https://www.curseforge.com/minecraft/mc-mods/tacz-tweaks",
-                "https://www.curseforge.com/minecraft/mc-mods/security-craft"
+                "https://www.curseforge.com/minecraft/mc-mods/security-craft",
+                "https://www.curseforge.com/minecraft/mc-mods/better-command-block-delay-and-repeats"
             ],
             "mods": [
                 "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero",
                 "https://www.curseforge.com/minecraft/mc-mods/tacz-tweaks",
-                "https://www.curseforge.com/minecraft/mc-mods/security-craft"
+                "https://www.curseforge.com/minecraft/mc-mods/security-craft",
+                "https://www.curseforge.com/minecraft/mc-mods/better-command-block-delay-and-repeats"
             ]
         }
     ],

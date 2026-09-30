@@ -582,26 +582,6 @@
             "downloads": 1,
             "reviews": [],
             "status": "approved"
-        },
-        {
-            "id": "zr_spiral_v0_0_1_9181",
-            "name": "Spiral V0.0.1",
-            "version": "0.0.1",
-            "description": "The Longest Tower map ever created, but only part of it is created Mods: Some More Blocks, Extended Build Limit",
-            "author": "mcgamer24_61240",
-            "author_id": "1426238717504258048",
-            "game_version": "1.20.1",
-            "zr_version": "1.6.0 stable",
-            "tags": [
-                "survival"
-            ],
-            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_spiral_v0_0_1_9181/zr_spiral_v0_0_1_9181_img.png",
-            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_spiral_v0_0_1_9181/zr_spiral_v0_0_1_9181.zip",
-            "sha256": "838f78b497b396b83c94a4cc86cf890ea72ae4d0873db2eaad2e135d98408a84",
-            "timestamp": 1790559671139,
-            "downloads": 1,
-            "reviews": [],
-            "status": "approved"
         }
     ],
     "config": {

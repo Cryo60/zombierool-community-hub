@@ -571,10 +571,12 @@
             "author_id": "1426238717504258048",
             "game_version": "1.20.1",
             "zr_version": "1.6.0 stable",
-            "tags": [],
+            "tags": [
+                "survival"
+            ],
             "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_volcanic_terrors_v0_0_1_5469/zr_volcanic_terrors_v0_0_1_5469_img.png",
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_volcanic_terrors_v0_0_1_5469/zr_volcanic_terrors_v0_0_1_5469.zip",
-            "sha256": "1d38a96e655349d0351d72bb48bc44832dab1d61048f1920ffe130864fcff575",
+            "sha256": "94f72126fdf9e08ce4d3d4d0c4e674f9c974d533544419d8d9ac4842cc5f3a16",
             "timestamp": 1791087748623,
             "downloads": 2,
             "reviews": [],

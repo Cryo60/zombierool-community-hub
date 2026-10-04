@@ -581,6 +581,36 @@
             "downloads": 2,
             "reviews": [],
             "status": "approved"
+        },
+        {
+            "id": "zr_dark_origin_0760",
+            "name": "Dark Origin",
+            "version": "1.0.0",
+            "description": "Survive the zombie apocalypse in an abandoned minecraft village.",
+            "author": ".allie52",
+            "author_id": "260850044004073474",
+            "game_version": "1.20.1",
+            "zr_version": "1.6.0",
+            "tags": [
+                "Survival",
+                "Large map",
+                "Open"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_dark_origin_0760/zr_dark_origin_0760_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_dark_origin_0760/zr_dark_origin_0760.zip",
+            "sha256": "c82be329171dad313f70449dc5997017084f869dc1abdd19d34b8eee398ee204",
+            "timestamp": 1791153203196,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved",
+            "mods": [
+                "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero",
+                "https://www.curseforge.com/minecraft/mc-mods/tacz-gucci-vuitton-attachments",
+                "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-guns-lesraisins-append-pack",
+                "https://www.curseforge.com/minecraft/mc-mods/elite-x-quality-guns",
+                "https://www.curseforge.com/minecraft/mc-mods/fibers-guns-pack-for-tacz",
+                "https://www.curseforge.com/minecraft/mc-mods/fibers-guns-pack-for-tacz"
+            ]
         }
     ],
     "config": {

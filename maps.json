@@ -532,7 +532,7 @@
             "id": "zr_permafrost___alpha_3266",
             "name": "Permafrost - Beta",
             "version": "0.5.0",
-            "description": "WARNING: Mods needed to work (https://pastebin.com/dXNNn0q3). In a freezing cold, unveil the secrets of this underground lab, hidden under a bunker that has been abandoned for decades.",
+            "description": "In a freezing cold, unveil the secrets of this underground lab, hidden under a bunker that has been abandoned for decades.",
             "author": "diegeau",
             "author_id": "277189284170039296",
             "game_version": "1.20.1",
@@ -550,10 +550,7 @@
             "reviews": [],
             "status": "approved",
             "tacz_gunpacks": [
-                "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero",
-                "https://www.curseforge.com/minecraft/mc-mods/tacz-tweaks",
-                "https://www.curseforge.com/minecraft/mc-mods/security-craft",
-                "https://www.curseforge.com/minecraft/mc-mods/better-command-block-delay-and-repeats"
+                "https://www.curseforge.com/minecraft/customization/tacz-modern-warfare-2019-weapons-for-tac-zero"
             ],
             "mods": [
                 "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero",

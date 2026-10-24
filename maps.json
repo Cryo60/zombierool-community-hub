@@ -27,6 +27,14 @@
                     "stars": 5,
                     "comment": "",
                     "date": "2026-03-30"
+                },
+                {
+                    "user_id": "minecraft:c0bbf1211e7c485d86e3773e1550f101",
+                    "user": "Neidolit",
+                    "stars": 5,
+                    "comment": "",
+                    "date": "2026-10-24",
+                    "platform": "minecraft"
                 }
             ],
             "downloads": 164

@@ -581,6 +581,14 @@
                     "comment": "",
                     "date": "2026-10-27",
                     "platform": "minecraft"
+                },
+                {
+                    "user_id": "minecraft:3d32832c23554a5c8cbe7eeb079b986a",
+                    "user": "dragoninthec",
+                    "stars": 5,
+                    "comment": "",
+                    "date": "2026-10-30",
+                    "platform": "minecraft"
                 }
             ],
             "status": "approved",

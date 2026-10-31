@@ -547,7 +547,7 @@
         {
             "id": "zr_permafrost___alpha_3266",
             "name": "Permafrost",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "description": "In a freezing cold, unveil the secrets of this underground lab, hidden under a bunker that has been abandoned for decades.",
             "author": "diegeau",
             "author_id": "277189284170039296",
@@ -562,7 +562,7 @@
             ],
             "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_permafrost___alpha_3266/zr_permafrost___alpha_3266_img.png",
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_permafrost___alpha_3266/zr_permafrost___alpha_3266.zip",
-            "sha256": "9dce7e47399547551b5830c584299e301be85f953024f5ae49f7605af846186a",
+            "sha256": "bf3aed9c4065cf14c16a2ad1cb5b86ee881e2ff43e150fef25b6897ebd298458",
             "timestamp": 1790270081893,
             "downloads": 78,
             "reviews": [

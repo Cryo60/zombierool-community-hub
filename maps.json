@@ -133,7 +133,7 @@
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_the_cabin_0386/zr_the_cabin_0386.zip",
             "sha256": "b2c4e0fa09f206e508894b6492be851d7cf43aba66b85446b638ceba8419d90c",
             "timestamp": 1776883612661,
-            "downloads": 56,
+            "downloads": 57,
             "reviews": [],
             "status": "approved"
         },
@@ -154,7 +154,7 @@
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_onewindow__michael_s_zombies__2489/zr_onewindow__michael_s_zombies__2489.zip",
             "sha256": "d72c7cca648c32050de7e52127e404f8d38ee0a3144fe2e1a42b0b19a90be185",
             "timestamp": 1777069883994,
-            "downloads": 41,
+            "downloads": 42,
             "reviews": [],
             "status": "approved"
         },
@@ -174,7 +174,7 @@
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_marty_s_tower_4278/zr_marty_s_tower_4278.zip",
             "sha256": "05d259465e5888b8ae9c5dc5d70734aebc24f0b7090d9eff403ee5d4111092e4",
             "timestamp": 1777142995630,
-            "downloads": 23,
+            "downloads": 24,
             "reviews": [],
             "status": "approved"
         },
@@ -195,7 +195,7 @@
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_onewindow__mc_map_bo3___6079/zr_onewindow__mc_map_bo3___6079.zip",
             "sha256": "abaed661dbf371f76505bc84232905b5c042c9d52a60af7d87ff541c42332ce1",
             "timestamp": 1777202107666,
-            "downloads": 22,
+            "downloads": 23,
             "reviews": [],
             "status": "approved"
         },
@@ -215,7 +215,7 @@
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_alkabra__6614/zr_alkabra__6614.zip",
             "sha256": "7f6218a243c91cf51fd333893cae87bc47cc2161a8748ae89664cead4594a340",
             "timestamp": 1777313701727,
-            "downloads": 54,
+            "downloads": 55,
             "reviews": [
                 {
                     "user_id": "700106286812889148",
@@ -243,7 +243,7 @@
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_space_station_3176/zr_space_station_3176.zip",
             "sha256": "28f3c52c9e51570909619907e539e7a9ee65bc21d8082a1a22332a65659786a1",
             "timestamp": 1781989025030,
-            "downloads": 128,
+            "downloads": 129,
             "reviews": [],
             "status": "approved",
             "tacz_gunpacks": [

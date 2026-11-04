@@ -45,7 +45,7 @@
                     "platform": "minecraft"
                 }
             ],
-            "downloads": 170
+            "downloads": 171
         },
         {
             "id": "zr_one_window_challenge_9159",
@@ -174,7 +174,7 @@
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_marty_s_tower_4278/zr_marty_s_tower_4278.zip",
             "sha256": "05d259465e5888b8ae9c5dc5d70734aebc24f0b7090d9eff403ee5d4111092e4",
             "timestamp": 1777142995630,
-            "downloads": 25,
+            "downloads": 26,
             "reviews": [],
             "status": "approved"
         },
@@ -272,7 +272,7 @@
             "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_cheese_tower_4276/zr_cheese_tower_4276.zip",
             "sha256": "3df46eea142ddadb924b87b17470b2deac9c84ccc9162d3296bfcb222e1407c9",
             "timestamp": 1782098026125,
-            "downloads": 41,
+            "downloads": 42,
             "reviews": [],
             "status": "approved"
         },

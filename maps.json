@@ -575,19 +575,19 @@
                     "platform": "minecraft"
                 },
                 {
-                    "user_id": "minecraft:c0bbf1211e7c485d86e3773e1550f101",
-                    "user": "Neidolit",
-                    "stars": 4,
-                    "comment": "",
-                    "date": "2026-10-27",
-                    "platform": "minecraft"
-                },
-                {
                     "user_id": "minecraft:3d32832c23554a5c8cbe7eeb079b986a",
                     "user": "dragoninthec",
                     "stars": 5,
                     "comment": "",
                     "date": "2026-10-30",
+                    "platform": "minecraft"
+                },
+                {
+                    "user_id": "minecraft:c0bbf1211e7c485d86e3773e1550f101",
+                    "user": "Neidolit",
+                    "stars": 5,
+                    "comment": "",
+                    "date": "2026-11-19",
                     "platform": "minecraft"
                 }
             ],

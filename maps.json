@@ -631,6 +631,31 @@
                 "https://www.curseforge.com/minecraft/mc-mods/fibers-guns-pack-for-tacz",
                 "https://www.curseforge.com/minecraft/mc-mods/fibers-guns-pack-for-tacz"
             ]
+        },
+        {
+            "id": "zr_untitled_map_9232",
+            "name": "Untitled Map",
+            "version": "0.0.1",
+            "description": "A map i made for fun",
+            "author": "mcgamer24_61240",
+            "author_id": "1426238717504258048",
+            "game_version": "1.20.1",
+            "zr_version": "26.7.1",
+            "tags": [
+                "survival"
+            ],
+            "image_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_untitled_map_9232/zr_untitled_map_9232_img.png",
+            "download_url": "https://github.com/Cryo60/zombierool-community-hub/releases/download/zr_untitled_map_9232/zr_untitled_map_9232.zip",
+            "sha256": "d494cdc87f969588bcddd041e2c5f38b5ad0e7296e332c7595df356851c890ad",
+            "timestamp": 1795743061414,
+            "downloads": 0,
+            "reviews": [],
+            "status": "approved",
+            "mods": [
+                "https://www.curseforge.com/minecraft/mc-mods/elite-x-quality-guns",
+                "https://www.curseforge.com/minecraft/mc-mods/fibers-guns-pack-for-tacz",
+                "https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero"
+            ]
         }
     ],
     "config": {
